@@ -1,3 +1,3 @@
 # Redirector
-Commit change 1
+Commit change
 and rechange.
